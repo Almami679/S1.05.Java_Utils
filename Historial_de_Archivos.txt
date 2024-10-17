@@ -1,0 +1,2460 @@
+(Adobe): [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Adobe): [File] (Level -3)
+Mon Dec 27 14:30:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level -5)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+1.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+1.MOV: [File] (Level 1)
+Tue Dec 28 14:37:57 CET 2021
+------------------------------------------
+10.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+10.MOV: [File] (Level -4)
+Tue Dec 28 14:39:50 CET 2021
+------------------------------------------
+11.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+11.MOV: [File] (Level 1)
+Tue Dec 28 14:39:59 CET 2021
+------------------------------------------
+12.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+12.MOV: [File] (Level 0)
+Tue Dec 28 14:40:12 CET 2021
+------------------------------------------
+13.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+13.MOV: [File] (Level 1)
+Tue Dec 28 14:40:23 CET 2021
+------------------------------------------
+14.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+14.MOV: [File] (Level -1)
+Tue Dec 28 14:40:33 CET 2021
+------------------------------------------
+15.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+15.MOV: [File] (Level 1)
+Tue Dec 28 14:40:47 CET 2021
+------------------------------------------
+16.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+16.MOV: [File] (Level 0)
+Tue Dec 28 14:40:56 CET 2021
+------------------------------------------
+17.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+17.MOV: [File] (Level 1)
+Tue Dec 28 14:41:11 CET 2021
+------------------------------------------
+18.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+18.MOV: [File] (Level -2)
+Tue Dec 28 14:41:28 CET 2021
+------------------------------------------
+19.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+19.MOV: [File] (Level 1)
+Tue Dec 28 14:41:40 CET 2021
+------------------------------------------
+2.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+2.MOV: [File] (Level 0)
+Tue Dec 28 14:38:16 CET 2021
+------------------------------------------
+20.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+20.MOV: [File] (Level 1)
+Tue Dec 28 14:41:51 CET 2021
+------------------------------------------
+21.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+21.MOV: [File] (Level -1)
+Tue Dec 28 14:42:02 CET 2021
+------------------------------------------
+22.0: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+22.0: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+3.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+3.MOV: [File] (Level 1)
+Tue Dec 28 14:38:29 CET 2021
+------------------------------------------
+4.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+4.MOV: [File] (Level 0)
+Tue Dec 28 14:38:42 CET 2021
+------------------------------------------
+5.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+5.MOV: [File] (Level 1)
+Tue Dec 28 14:38:54 CET 2021
+------------------------------------------
+6.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+6.MOV: [File] (Level -3)
+Tue Dec 28 14:39:05 CET 2021
+------------------------------------------
+7.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+7.MOV: [File] (Level 1)
+Tue Dec 28 14:39:15 CET 2021
+------------------------------------------
+8.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+8.MOV: [File] (Level 0)
+Tue Dec 28 14:39:27 CET 2021
+------------------------------------------
+9.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+9.MOV: [File] (Level 1)
+Tue Dec 28 14:39:37 CET 2021
+------------------------------------------
+Adobe Media Encoder: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Auto-Save: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Captured Video: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Prefs: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Prefs: [File] (Level 1)
+Tue Dec 28 22:29:54 CET 2021
+------------------------------------------
+Adobe: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+After Effects 2022: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Android Studio.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Android Studio.lnk: [File] (Level -4)
+Tue Jul 02 00:27:07 CEST 2024
+------------------------------------------
+ArchivedLayouts: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+ArchivedWorkspaces: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Background Walla Walla.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Background Walla Walla.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Background Music.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Background Music.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Female Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Female Voice.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Male Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Male Voice.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+BlendSettings.ini: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+BlendSettings.ini: [File] (Level 0)
+Thu Feb 17 21:21:44 CET 2022
+------------------------------------------
+Clean Up Noisy Dialogue.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Clean Up Noisy Dialogue.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Config_consola_GO.txt: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Config_consola_GO.txt: [File] (Level 1)
+Thu Jul 11 16:14:00 CEST 2024
+------------------------------------------
+Configurador_FNMT_1.0.2_64bits.exe: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Configurador_FNMT_1.0.2_64bits.exe: [File] (Level -4)
+Mon Feb 22 19:38:28 CET 2021
+------------------------------------------
+Curso Phyton: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Custom Overlay.olp: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Custom Overlay.olp: [File] (Level -1)
+Tue Dec 28 17:08:23 CET 2021
+------------------------------------------
+DayZ.cfg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+DayZ.cfg: [File] (Level -2)
+Thu Jun 30 02:24:13 CEST 2022
+------------------------------------------
+DayZ: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE (INTRO).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE (INTRO).pdf: [File] (Level 0)
+Mon Mar 07 07:11:10 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Boris Karloff).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Boris Karloff).pdf: [File] (Level 1)
+Mon Mar 07 07:21:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Bullet).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Bullet).pdf: [File] (Level -1)
+Mon Mar 07 07:15:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Farewell).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Farewell).pdf: [File] (Level 1)
+Mon Mar 07 07:19:06 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Hiroshima).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Hiroshima).pdf: [File] (Level 0)
+Mon Mar 07 07:22:25 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Meat and Bones).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Meat and Bones).pdf: [File] (Level 1)
+Mon Mar 07 07:20:33 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Moonrise).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Moonrise).pdf: [File] (Level -3)
+Mon Mar 07 07:18:23 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Saturn).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Saturn).pdf: [File] (Level 1)
+Mon Mar 07 07:17:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Spaceman).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Spaceman).pdf: [File] (Level 0)
+Mon Mar 07 07:21:18 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(The Captain).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(The Captain).pdf: [File] (Level 1)
+Mon Mar 07 07:17:04 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Tunnelvision).pdf: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Tunnelvision).pdf: [File] (Level -7)
+Mon Mar 07 07:36:14 CET 2022
+------------------------------------------
+Default: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Duck against everything.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Duck against everything.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Eclipse IDE for Java and DSL Developers - 2024-06.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Eclipse IDE for Java and DSL Developers - 2024-06.lnk: [File] (Level -2)
+Tue Jul 02 00:31:32 CEST 2024
+------------------------------------------
+EcoHortApp.exe: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+EcoHortApp.exe: [File] (Level -2)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+Effect Presets and Custom Items.prfpset: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Effect Presets and Custom Items.prfpset: [File] (Level 1)
+Tue Dec 28 22:29:49 CET 2021
+------------------------------------------
+El_Mejor_Cocinillas.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+El_Mejor_Cocinillas.py: [File] (Level -1)
+Wed Jan 05 13:41:11 CET 2022
+------------------------------------------
+Escritorio: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+EssentialSound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Explosion.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Explosion.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+FUJITA EP: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Focused.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Focused.essentialsound: [File] (Level -4)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside a Building.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside a Building.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Left.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Left.essentialsound: [File] (Level -5)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Radio.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Radio.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Right.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Right.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Telephone.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Telephone.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Television.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Television.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Hard Vocal Ducking.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Hard Vocal Ducking.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Homenaje.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Homenaje.pdf: [File] (Level 0)
+Fri Mar 25 17:25:31 CET 2022
+------------------------------------------
+Homenaje_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Homenaje_TAB: [File] (Level 1)
+Fri Mar 25 17:25:31 CET 2022
+------------------------------------------
+In a Large Room.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Large Room.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Large Room.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+In a Large Room.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+In a Small Room.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Small Room.essentialsound: [File] (Level -6)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Installed Guides.guides: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Installed Guides.guides: [File] (Level -1)
+Tue Dec 28 17:12:41 CET 2021
+------------------------------------------
+LA MEVA SALUT.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+LA MEVA SALUT.lnk: [File] (Level -3)
+Mon Apr 12 19:34:04 CEST 2021
+------------------------------------------
+La Parte Por El Todo.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+La Parte Por El Todo.pdf: [File] (Level -5)
+Fri Mar 25 17:34:56 CET 2022
+------------------------------------------
+La_Parte_por_el_Todo_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+La_Parte_por_el_Todo_TAB: [File] (Level 1)
+Fri Mar 25 17:34:59 CET 2022
+------------------------------------------
+Layouts: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+MAMA: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+MI TELE.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+MI TELE.lnk: [File] (Level -5)
+Sun May 12 17:53:04 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Close Up.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Distant.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Distant.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Distant.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Distant.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Medium Shot.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Medium Shot.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Medium Shot.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Medium Shot.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Makefile: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Makefile: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+Mazmorra (Pec Final Modulo 1).txt.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mazmorra (Pec Final Modulo 1).txt.py: [File] (Level -2)
+Thu Jan 06 20:10:10 CET 2022
+------------------------------------------
+Media Browser Provider Exception: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Media Browser Provider Exception: [File] (Level 0)
+Tue Dec 28 22:29:42 CET 2021
+------------------------------------------
+Mi clon(2).xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mi clon(2).xml: [File] (Level 0)
+Sun Jul 17 04:36:23 CEST 2022
+------------------------------------------
+Mi clon.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mi clon.xml: [File] (Level 1)
+Sat Jul 16 03:55:47 CEST 2022
+------------------------------------------
+My Games: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Oblivion.ini: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Oblivion.ini: [File] (Level -1)
+Thu Feb 17 21:21:44 CET 2022
+------------------------------------------
+Oblivion: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Over the Intercom.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Over the Intercom.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Overlay Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Please, Keep the Spaceman Alive: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Podcast Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Podcast Voice.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Premiere Pro: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Presets: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.py: [File] (Level -1)
+Fri Jan 07 12:46:36 CET 2022
+------------------------------------------
+Problemas_en_el_planeta_rojo.txt: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.txt: [File] (Level -3)
+Fri Jan 07 12:44:57 CET 2022
+------------------------------------------
+Profile-almam: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Project View Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Proyeccion larga (PRUEBA BOMBO).mp4: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Proyeccion larga (PRUEBA BOMBO).mp4: [File] (Level -3)
+Wed Jun 15 15:13:51 CEST 2022
+------------------------------------------
+PvZ_Information_Panel.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+PvZ_Information_Panel.xml: [File] (Level 1)
+Thu Jun 02 01:42:37 CEST 2022
+------------------------------------------
+Que Mas Puedo Pedir.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Que Mas Puedo Pedir.pdf: [File] (Level 0)
+Fri Mar 25 17:20:09 CET 2022
+------------------------------------------
+Que_mas_puedo_pedir_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Que_mas_puedo_pedir_TAB: [File] (Level 1)
+Fri Mar 25 17:20:18 CET 2022
+------------------------------------------
+Recent Directories: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Recent Directories: [File] (Level -4)
+Tue Dec 28 22:29:40 CET 2021
+------------------------------------------
+Reflect: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Room Tone.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Room Tone.essentialsound: [File] (Level -8)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+SGAE: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Save 2 - Chefwork - Casa de Weynon, Level 1, Playing Time 02.52.54.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 2 - Chefwork - Casa de Weynon, Level 1, Playing Time 02.52.54.ess: [File] (Level 0)
+Wed Feb 16 01:28:15 CET 2022
+------------------------------------------
+Save 3 - Chefwork - Leyawiin, Level 2, Playing Time 05.13.27.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 3 - Chefwork - Leyawiin, Level 2, Playing Time 05.13.27.ess: [File] (Level -1)
+Thu Feb 17 01:15:52 CET 2022
+------------------------------------------
+Save 4 - Chefwork - Leyawiin, Level 40, Playing Time 07.44.10.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 4 - Chefwork - Leyawiin, Level 40, Playing Time 07.44.10.ess: [File] (Level 0)
+Thu Feb 17 03:54:13 CET 2022
+------------------------------------------
+SavedWorkspaces: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Saves: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Settings: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+SharedView Column Settings: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+SharedView Column Settings: [File] (Level 0)
+Tue Dec 28 22:29:42 CET 2021
+------------------------------------------
+Si Tu Te Vas.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Si Tu Te Vas.pdf: [File] (Level -1)
+Fri Mar 25 17:21:32 CET 2022
+------------------------------------------
+Si_tu_te_vas_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Si_tu_te_vas_TAB: [File] (Level 1)
+Fri Mar 25 17:21:33 CET 2022
+------------------------------------------
+Smooth Vocal Ducking.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Smooth Vocal Ducking.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Snapshot: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Source Patcher Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna.pdf: [File] (Level 0)
+Fri Mar 25 17:22:33 CET 2022
+------------------------------------------
+Superluna_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna_TAB: [File] (Level 1)
+Fri Mar 25 17:22:34 CET 2022
+------------------------------------------
+SyncBackup: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+TABS: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+TV.mp4: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+TV.mp4: [File] (Level 1)
+Tue Dec 28 14:35:23 CET 2021
+------------------------------------------
+Timecode Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Track Height Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UNIÓN DE CRÉDITOS INMOBILIARIOS.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+UNIÓN DE CRÉDITOS INMOBILIARIOS.lnk: [File] (Level -3)
+Tue Aug 02 16:39:12 CEST 2022
+------------------------------------------
+User Libraries: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+User Presets: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace.xml: [File] (Level -1)
+Tue Dec 28 17:31:08 CET 2021
+------------------------------------------
+UserWorkspace_1.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_1.xml: [File] (Level 1)
+Tue Dec 28 22:29:34 CET 2021
+------------------------------------------
+UserWorkspace_2.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_2.xml: [File] (Level 0)
+Tue Dec 28 17:32:14 CET 2021
+------------------------------------------
+UserWorkspace_3.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_3.xml: [File] (Level 1)
+Tue Dec 28 17:32:12 CET 2021
+------------------------------------------
+Video Libraries: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+VideoOutput: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Visual Studio Code.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Visual Studio Code.lnk: [File] (Level -2)
+Mon Jul 08 17:59:32 CEST 2024
+------------------------------------------
+Wide and Deep.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Wide and Deep.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Win: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+WorkspaceConfig.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+WorkspaceConfig.xml: [File] (Level -2)
+Tue Dec 28 22:29:34 CET 2021
+------------------------------------------
+_4K_ Rebobinando un VHS.mp4: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+_4K_ Rebobinando un VHS.mp4: [File] (Level 1)
+Tue Dec 28 15:59:25 CET 2021
+------------------------------------------
+adjuntos.zip: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+adjuntos.zip: [File] (Level 0)
+Wed Dec 01 13:48:26 CET 2021
+------------------------------------------
+almam.core.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam.core.xml: [File] (Level -1)
+Wed Jul 06 03:41:14 CEST 2022
+------------------------------------------
+almam.dayz_preset_User.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam.dayz_preset_User.xml: [File] (Level 1)
+Wed Jul 06 03:41:26 CEST 2022
+------------------------------------------
+almam_settings.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam_settings.DayZProfile: [File] (Level 0)
+Wed Jul 06 04:18:57 CEST 2022
+------------------------------------------
+ambience: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.bak: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.bak: [File] (Level 0)
+Thu Feb 17 21:18:22 CET 2022
+------------------------------------------
+autosave.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.ess: [File] (Level -1)
+Thu Feb 17 21:19:15 CET 2022
+------------------------------------------
+bundled.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+bundled.go: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+chars.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+chars.DayZProfile: [File] (Level 1)
+Wed Jul 06 04:15:15 CEST 2022
+------------------------------------------
+clima-text.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-text.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-text.go: [File] (Level -1)
+Fri Jul 12 16:48:42 CEST 2024
+------------------------------------------
+clima-text.go: [File] (Level -1)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+clima-valors.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-valors.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-valors.go: [File] (Level 0)
+Fri Jul 12 16:22:27 CEST 2024
+------------------------------------------
+clima-valors.go: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+db-sqlite.go: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+db-sqlite.go: [File] (Level -2)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+dialog: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+dzprofilestats: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+dzprofilestats: [File] (Level 1)
+Wed Jul 06 03:25:41 CEST 2022
+------------------------------------------
+ecohortapp-main: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortapp: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortappGitHub: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortappGitHub: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta retoque.jpg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta retoque.jpg: [File] (Level -1)
+Tue Dec 28 16:27:47 CET 2021
+------------------------------------------
+etiqueta.jpg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta.jpg: [File] (Level 1)
+Tue Dec 28 16:23:37 CET 2021
+------------------------------------------
+generic: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+go.mod: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.mod: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.mod: [File] (Level -3)
+Thu Jul 11 17:44:27 CEST 2024
+------------------------------------------
+go.mod: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+go.sum: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.sum: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.sum: [File] (Level -1)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+go.sum: [File] (Level 0)
+Thu Jul 11 17:44:27 CEST 2024
+------------------------------------------
+icon.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+icon.png: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+logs: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-26-49.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-26-49.prproj: [File] (Level -1)
+Tue Dec 28 17:26:49 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-42-21.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-42-21.prproj: [File] (Level -2)
+Tue Dec 28 17:42:21 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-55-47.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-55-47.prproj: [File] (Level -1)
+Tue Dec 28 17:55:47 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_18-30-49.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_18-30-49.prproj: [File] (Level -3)
+Tue Dec 28 18:30:49 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_20-53-23.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_20-53-23.prproj: [File] (Level -1)
+Tue Dec 28 20:53:23 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-08-04.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-08-04.prproj: [File] (Level -2)
+Tue Dec 28 21:08:04 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-21-44.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-21-44.prproj: [File] (Level -1)
+Tue Dec 28 21:21:44 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-40-16.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-40-16.prproj: [File] (Level -4)
+Tue Dec 28 21:40:16 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-53-54.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-53-54.prproj: [File] (Level -1)
+Tue Dec 28 21:53:54 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_22-09-01.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_22-09-01.prproj: [File] (Level -2)
+Tue Dec 28 22:09:01 CET 2021
+------------------------------------------
+lyric (la hermandad).prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad).prproj: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad).prproj: [File] (Level -1)
+Tue Dec 28 22:29:29 CET 2021
+------------------------------------------
+lyric (la hermandad).prproj: [File] (Level 0)
+Tue Dec 28 22:29:29 CET 2021
+------------------------------------------
+lyric (la hermandad): [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric video: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [File] (Level -1)
+Fri Jul 12 17:04:51 CEST 2024
+------------------------------------------
+main.go: [File] (Level -5)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+metadatacache.prmdc2: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+metadatacache.prmdc2: [File] (Level 1)
+Tue Dec 28 17:31:36 CET 2021
+------------------------------------------
+music: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+negro.mov: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+negro.mov: [File] (Level 0)
+Tue Dec 28 20:44:01 CET 2021
+------------------------------------------
+nodisponible.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+nodisponible.png: [File] (Level -1)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+profile.vars.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+profile.vars.DayZProfile: [File] (Level 0)
+Wed Jul 06 04:18:48 CEST 2022
+------------------------------------------
+pronostic-pestanya.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pronostic-pestanya.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+pronostic.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pronostic.png: [File] (Level -2)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+pycharm-community-2021.3.1.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pycharm-community-2021.3.1.exe: [File] (Level -1)
+Tue Jan 04 16:05:29 CET 2022
+------------------------------------------
+python-3.10.1-amd64.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+python-3.10.1-amd64.exe: [File] (Level -2)
+Tue Jan 04 15:43:19 CET 2022
+------------------------------------------
+quicksave.bak: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+quicksave.bak: [File] (Level 0)
+Thu Feb 17 21:18:18 CET 2022
+------------------------------------------
+quicksave.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+quicksave.ess: [File] (Level -2)
+Thu Feb 17 21:20:30 CET 2022
+------------------------------------------
+registre-pestanya.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+registre-pestanya.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+rentas2020.zip: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+rentas2020.zip: [File] (Level -1)
+Wed Jun 08 12:22:02 CEST 2022
+------------------------------------------
+repository.go: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+repository.go: [File] (Level -1)
+Thu Jul 11 16:11:33 CEST 2024
+------------------------------------------
+repository: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+sfx: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+stats.DayZ.json: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+stats.DayZ.json: [File] (Level -1)
+Tue May 31 02:22:59 CEST 2022
+------------------------------------------
+steam_autocloud.vdf: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+steam_autocloud.vdf: [File] (Level -4)
+Thu Feb 17 19:59:01 CET 2022
+------------------------------------------
+sublime_text_build_4126_x64_setup.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+sublime_text_build_4126_x64_setup.exe: [File] (Level -1)
+Wed Jan 05 20:56:27 CET 2022
+------------------------------------------
+toolbar.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+toolbar.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+toolbar.go: [File] (Level 0)
+Fri Jul 12 17:19:21 CEST 2024
+------------------------------------------
+toolbar.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+ui.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ui.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ui.go: [File] (Level -2)
+Fri Jul 12 17:15:53 CEST 2024
+------------------------------------------
+ui.go: [File] (Level -3)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+vhs.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+vhs.MOV: [File] (Level -2)
+Tue Dec 28 15:55:45 CET 2021
+------------------------------------------
+(Adobe): [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Adobe): [File] (Level -3)
+Mon Dec 27 14:30:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Config).essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level -5)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Config).essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+(Default).essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+(Default).essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+1.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+1.MOV: [File] (Level 1)
+Tue Dec 28 14:37:57 CET 2021
+------------------------------------------
+10.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+10.MOV: [File] (Level -4)
+Tue Dec 28 14:39:50 CET 2021
+------------------------------------------
+11.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+11.MOV: [File] (Level 1)
+Tue Dec 28 14:39:59 CET 2021
+------------------------------------------
+12.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+12.MOV: [File] (Level 0)
+Tue Dec 28 14:40:12 CET 2021
+------------------------------------------
+13.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+13.MOV: [File] (Level 1)
+Tue Dec 28 14:40:23 CET 2021
+------------------------------------------
+14.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+14.MOV: [File] (Level -1)
+Tue Dec 28 14:40:33 CET 2021
+------------------------------------------
+15.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+15.MOV: [File] (Level 1)
+Tue Dec 28 14:40:47 CET 2021
+------------------------------------------
+16.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+16.MOV: [File] (Level 0)
+Tue Dec 28 14:40:56 CET 2021
+------------------------------------------
+17.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+17.MOV: [File] (Level 1)
+Tue Dec 28 14:41:11 CET 2021
+------------------------------------------
+18.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+18.MOV: [File] (Level -2)
+Tue Dec 28 14:41:28 CET 2021
+------------------------------------------
+19.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+19.MOV: [File] (Level 1)
+Tue Dec 28 14:41:40 CET 2021
+------------------------------------------
+2.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+2.MOV: [File] (Level 0)
+Tue Dec 28 14:38:16 CET 2021
+------------------------------------------
+20.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+20.MOV: [File] (Level 1)
+Tue Dec 28 14:41:51 CET 2021
+------------------------------------------
+21.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+21.MOV: [File] (Level -1)
+Tue Dec 28 14:42:02 CET 2021
+------------------------------------------
+22.0: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+22.0: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+3.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+3.MOV: [File] (Level 1)
+Tue Dec 28 14:38:29 CET 2021
+------------------------------------------
+4.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+4.MOV: [File] (Level 0)
+Tue Dec 28 14:38:42 CET 2021
+------------------------------------------
+5.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+5.MOV: [File] (Level 1)
+Tue Dec 28 14:38:54 CET 2021
+------------------------------------------
+6.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+6.MOV: [File] (Level -3)
+Tue Dec 28 14:39:05 CET 2021
+------------------------------------------
+7.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+7.MOV: [File] (Level 1)
+Tue Dec 28 14:39:15 CET 2021
+------------------------------------------
+8.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+8.MOV: [File] (Level 0)
+Tue Dec 28 14:39:27 CET 2021
+------------------------------------------
+9.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+9.MOV: [File] (Level 1)
+Tue Dec 28 14:39:37 CET 2021
+------------------------------------------
+Adobe Media Encoder: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Auto-Save: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Captured Video: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Prefs: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Adobe Premiere Pro Prefs: [File] (Level 1)
+Tue Dec 28 22:29:54 CET 2021
+------------------------------------------
+Adobe: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+After Effects 2022: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Android Studio.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Android Studio.lnk: [File] (Level -4)
+Tue Jul 02 00:27:07 CEST 2024
+------------------------------------------
+ArchivedLayouts: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+ArchivedWorkspaces: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Background Walla Walla.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Background Walla Walla.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Background Music.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Background Music.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Female Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Female Voice.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Balanced Male Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Balanced Male Voice.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+BlendSettings.ini: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+BlendSettings.ini: [File] (Level 0)
+Thu Feb 17 21:21:44 CET 2022
+------------------------------------------
+Clean Up Noisy Dialogue.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Clean Up Noisy Dialogue.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Config_consola_GO.txt: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Config_consola_GO.txt: [File] (Level 1)
+Thu Jul 11 16:14:00 CEST 2024
+------------------------------------------
+Configurador_FNMT_1.0.2_64bits.exe: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Configurador_FNMT_1.0.2_64bits.exe: [File] (Level -4)
+Mon Feb 22 19:38:28 CET 2021
+------------------------------------------
+Curso Phyton: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Custom Overlay.olp: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Custom Overlay.olp: [File] (Level -1)
+Tue Dec 28 17:08:23 CET 2021
+------------------------------------------
+DayZ.cfg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+DayZ.cfg: [File] (Level -2)
+Thu Jun 30 02:24:13 CEST 2022
+------------------------------------------
+DayZ: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE (INTRO).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE (INTRO).pdf: [File] (Level 0)
+Mon Mar 07 07:11:10 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Boris Karloff).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Boris Karloff).pdf: [File] (Level 1)
+Mon Mar 07 07:21:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Bullet).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Bullet).pdf: [File] (Level -1)
+Mon Mar 07 07:15:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Farewell).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Farewell).pdf: [File] (Level 1)
+Mon Mar 07 07:19:06 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Hiroshima).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Hiroshima).pdf: [File] (Level 0)
+Mon Mar 07 07:22:25 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Meat and Bones).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Meat and Bones).pdf: [File] (Level 1)
+Mon Mar 07 07:20:33 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Moonrise).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Moonrise).pdf: [File] (Level -3)
+Mon Mar 07 07:18:23 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Saturn).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Saturn).pdf: [File] (Level 1)
+Mon Mar 07 07:17:51 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Spaceman).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Spaceman).pdf: [File] (Level 0)
+Mon Mar 07 07:21:18 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(The Captain).pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(The Captain).pdf: [File] (Level 1)
+Mon Mar 07 07:17:04 CET 2022
+------------------------------------------
+Declaracion_OBRA_SGAE(Tunnelvision).pdf: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Declaracion_OBRA_SGAE(Tunnelvision).pdf: [File] (Level -7)
+Mon Mar 07 07:36:14 CET 2022
+------------------------------------------
+Default: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Duck against everything.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Duck against everything.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Eclipse IDE for Java and DSL Developers - 2024-06.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Eclipse IDE for Java and DSL Developers - 2024-06.lnk: [File] (Level -2)
+Tue Jul 02 00:31:32 CEST 2024
+------------------------------------------
+EcoHortApp.exe: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+EcoHortApp.exe: [File] (Level -2)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+Effect Presets and Custom Items.prfpset: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Effect Presets and Custom Items.prfpset: [File] (Level 1)
+Tue Dec 28 22:29:49 CET 2021
+------------------------------------------
+El_Mejor_Cocinillas.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+El_Mejor_Cocinillas.py: [File] (Level -1)
+Wed Jan 05 13:41:11 CET 2022
+------------------------------------------
+Escritorio: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+EssentialSound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Explosion.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Explosion.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+FUJITA EP: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Focused.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Focused.essentialsound: [File] (Level -4)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside a Building.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside a Building.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From Outside.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From Outside.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Left.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Left.essentialsound: [File] (Level -5)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Radio.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Radio.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Right.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Right.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Telephone.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Telephone.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+From the Television.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+From the Television.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Hard Vocal Ducking.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Hard Vocal Ducking.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Homenaje.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Homenaje.pdf: [File] (Level 0)
+Fri Mar 25 17:25:31 CET 2022
+------------------------------------------
+Homenaje_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Homenaje_TAB: [File] (Level 1)
+Fri Mar 25 17:25:31 CET 2022
+------------------------------------------
+In a Large Room.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Large Room.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Large Room.essentialsound: [File] (Level -2)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+In a Large Room.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+In a Small Room.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+In a Small Room.essentialsound: [File] (Level -6)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Installed Guides.guides: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Installed Guides.guides: [File] (Level -1)
+Tue Dec 28 17:12:41 CET 2021
+------------------------------------------
+LA MEVA SALUT.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+LA MEVA SALUT.lnk: [File] (Level -3)
+Mon Apr 12 19:34:04 CEST 2021
+------------------------------------------
+La Parte Por El Todo.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+La Parte Por El Todo.pdf: [File] (Level -5)
+Fri Mar 25 17:34:56 CET 2022
+------------------------------------------
+La_Parte_por_el_Todo_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+La_Parte_por_el_Todo_TAB: [File] (Level 1)
+Fri Mar 25 17:34:59 CET 2022
+------------------------------------------
+Layouts: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+MAMA: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+MI TELE.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+MI TELE.lnk: [File] (Level -5)
+Sun May 12 17:53:04 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Close Up.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Close Up.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Distant.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Distant.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Distant.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Distant.essentialsound: [File] (Level 0)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Medium Shot.essentialsound: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Medium Shot.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Make Medium Shot.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Make Medium Shot.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Makefile: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Makefile: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+Mazmorra (Pec Final Modulo 1).txt.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mazmorra (Pec Final Modulo 1).txt.py: [File] (Level -2)
+Thu Jan 06 20:10:10 CET 2022
+------------------------------------------
+Media Browser Provider Exception: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Media Browser Provider Exception: [File] (Level 0)
+Tue Dec 28 22:29:42 CET 2021
+------------------------------------------
+Mi clon(2).xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mi clon(2).xml: [File] (Level 0)
+Sun Jul 17 04:36:23 CEST 2022
+------------------------------------------
+Mi clon.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Mi clon.xml: [File] (Level 1)
+Sat Jul 16 03:55:47 CEST 2022
+------------------------------------------
+My Games: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Oblivion.ini: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Oblivion.ini: [File] (Level -1)
+Thu Feb 17 21:21:44 CET 2022
+------------------------------------------
+Oblivion: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Over the Intercom.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Over the Intercom.essentialsound: [File] (Level -1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Overlay Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Please, Keep the Spaceman Alive: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Podcast Voice.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Podcast Voice.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Premiere Pro: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Presets: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.py: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.py: [File] (Level -1)
+Fri Jan 07 12:46:36 CET 2022
+------------------------------------------
+Problemas_en_el_planeta_rojo.txt: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Problemas_en_el_planeta_rojo.txt: [File] (Level -3)
+Fri Jan 07 12:44:57 CET 2022
+------------------------------------------
+Profile-almam: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Project View Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Proyeccion larga (PRUEBA BOMBO).mp4: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Proyeccion larga (PRUEBA BOMBO).mp4: [File] (Level -3)
+Wed Jun 15 15:13:51 CEST 2022
+------------------------------------------
+PvZ_Information_Panel.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+PvZ_Information_Panel.xml: [File] (Level 1)
+Thu Jun 02 01:42:37 CEST 2022
+------------------------------------------
+Que Mas Puedo Pedir.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Que Mas Puedo Pedir.pdf: [File] (Level 0)
+Fri Mar 25 17:20:09 CET 2022
+------------------------------------------
+Que_mas_puedo_pedir_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Que_mas_puedo_pedir_TAB: [File] (Level 1)
+Fri Mar 25 17:20:18 CET 2022
+------------------------------------------
+Recent Directories: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Recent Directories: [File] (Level -4)
+Tue Dec 28 22:29:40 CET 2021
+------------------------------------------
+Reflect: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Room Tone.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Room Tone.essentialsound: [File] (Level -8)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+SGAE: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Save 2 - Chefwork - Casa de Weynon, Level 1, Playing Time 02.52.54.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 2 - Chefwork - Casa de Weynon, Level 1, Playing Time 02.52.54.ess: [File] (Level 0)
+Wed Feb 16 01:28:15 CET 2022
+------------------------------------------
+Save 3 - Chefwork - Leyawiin, Level 2, Playing Time 05.13.27.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 3 - Chefwork - Leyawiin, Level 2, Playing Time 05.13.27.ess: [File] (Level -1)
+Thu Feb 17 01:15:52 CET 2022
+------------------------------------------
+Save 4 - Chefwork - Leyawiin, Level 40, Playing Time 07.44.10.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Save 4 - Chefwork - Leyawiin, Level 40, Playing Time 07.44.10.ess: [File] (Level 0)
+Thu Feb 17 03:54:13 CET 2022
+------------------------------------------
+SavedWorkspaces: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Saves: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Settings: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+SharedView Column Settings: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+SharedView Column Settings: [File] (Level 0)
+Tue Dec 28 22:29:42 CET 2021
+------------------------------------------
+Si Tu Te Vas.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Si Tu Te Vas.pdf: [File] (Level -1)
+Fri Mar 25 17:21:32 CET 2022
+------------------------------------------
+Si_tu_te_vas_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Si_tu_te_vas_TAB: [File] (Level 1)
+Fri Mar 25 17:21:33 CET 2022
+------------------------------------------
+Smooth Vocal Ducking.essentialsound: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Smooth Vocal Ducking.essentialsound: [File] (Level 1)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Snapshot: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Source Patcher Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna.pdf: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna.pdf: [File] (Level 0)
+Fri Mar 25 17:22:33 CET 2022
+------------------------------------------
+Superluna_TAB: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Superluna_TAB: [File] (Level 1)
+Fri Mar 25 17:22:34 CET 2022
+------------------------------------------
+SyncBackup: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+TABS: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+TV.mp4: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+TV.mp4: [File] (Level 1)
+Tue Dec 28 14:35:23 CET 2021
+------------------------------------------
+Timecode Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Track Height Presets: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UNIÓN DE CRÉDITOS INMOBILIARIOS.lnk: [Directory] (Level -3)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+UNIÓN DE CRÉDITOS INMOBILIARIOS.lnk: [File] (Level -3)
+Tue Aug 02 16:39:12 CEST 2022
+------------------------------------------
+User Libraries: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+User Presets: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace.xml: [File] (Level -1)
+Tue Dec 28 17:31:08 CET 2021
+------------------------------------------
+UserWorkspace_1.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_1.xml: [File] (Level 1)
+Tue Dec 28 22:29:34 CET 2021
+------------------------------------------
+UserWorkspace_2.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_2.xml: [File] (Level 0)
+Tue Dec 28 17:32:14 CET 2021
+------------------------------------------
+UserWorkspace_3.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+UserWorkspace_3.xml: [File] (Level 1)
+Tue Dec 28 17:32:12 CET 2021
+------------------------------------------
+Video Libraries: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+VideoOutput: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Visual Studio Code.lnk: [Directory] (Level -2)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+Visual Studio Code.lnk: [File] (Level -2)
+Mon Jul 08 17:59:32 CEST 2024
+------------------------------------------
+Wide and Deep.essentialsound: [Directory] (Level -3)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+Wide and Deep.essentialsound: [File] (Level -3)
+Tue Dec 28 17:08:13 CET 2021
+------------------------------------------
+Win: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+WorkspaceConfig.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+WorkspaceConfig.xml: [File] (Level -2)
+Tue Dec 28 22:29:34 CET 2021
+------------------------------------------
+_4K_ Rebobinando un VHS.mp4: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+_4K_ Rebobinando un VHS.mp4: [File] (Level 1)
+Tue Dec 28 15:59:25 CET 2021
+------------------------------------------
+adjuntos.zip: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+adjuntos.zip: [File] (Level 0)
+Wed Dec 01 13:48:26 CET 2021
+------------------------------------------
+almam.core.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam.core.xml: [File] (Level -1)
+Wed Jul 06 03:41:14 CEST 2022
+------------------------------------------
+almam.dayz_preset_User.xml: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam.dayz_preset_User.xml: [File] (Level 1)
+Wed Jul 06 03:41:26 CEST 2022
+------------------------------------------
+almam_settings.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+almam_settings.DayZProfile: [File] (Level 0)
+Wed Jul 06 04:18:57 CEST 2022
+------------------------------------------
+ambience: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.bak: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.bak: [File] (Level 0)
+Thu Feb 17 21:18:22 CET 2022
+------------------------------------------
+autosave.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+autosave.ess: [File] (Level -1)
+Thu Feb 17 21:19:15 CET 2022
+------------------------------------------
+bundled.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+bundled.go: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+chars.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+chars.DayZProfile: [File] (Level 1)
+Wed Jul 06 04:15:15 CEST 2022
+------------------------------------------
+clima-text.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-text.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-text.go: [File] (Level -1)
+Fri Jul 12 16:48:42 CEST 2024
+------------------------------------------
+clima-text.go: [File] (Level -1)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+clima-valors.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-valors.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+clima-valors.go: [File] (Level 0)
+Fri Jul 12 16:22:27 CEST 2024
+------------------------------------------
+clima-valors.go: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+db-sqlite.go: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+db-sqlite.go: [File] (Level -2)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+dialog: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+dzprofilestats: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+dzprofilestats: [File] (Level 1)
+Wed Jul 06 03:25:41 CEST 2022
+------------------------------------------
+ecohortapp-main: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortapp: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortappGitHub: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ecohortappGitHub: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta retoque.jpg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta retoque.jpg: [File] (Level -1)
+Tue Dec 28 16:27:47 CET 2021
+------------------------------------------
+etiqueta.jpg: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+etiqueta.jpg: [File] (Level 1)
+Tue Dec 28 16:23:37 CET 2021
+------------------------------------------
+generic: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+go.mod: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.mod: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.mod: [File] (Level -3)
+Thu Jul 11 17:44:27 CEST 2024
+------------------------------------------
+go.mod: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+go.sum: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.sum: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+go.sum: [File] (Level -1)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+go.sum: [File] (Level 0)
+Thu Jul 11 17:44:27 CEST 2024
+------------------------------------------
+icon.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+icon.png: [File] (Level 0)
+Thu Jul 11 16:11:31 CEST 2024
+------------------------------------------
+logs: [Directory] (Level -2)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-26-49.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-26-49.prproj: [File] (Level -1)
+Tue Dec 28 17:26:49 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-42-21.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-42-21.prproj: [File] (Level -2)
+Tue Dec 28 17:42:21 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-55-47.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_17-55-47.prproj: [File] (Level -1)
+Tue Dec 28 17:55:47 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_18-30-49.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_18-30-49.prproj: [File] (Level -3)
+Tue Dec 28 18:30:49 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_20-53-23.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_20-53-23.prproj: [File] (Level -1)
+Tue Dec 28 20:53:23 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-08-04.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-08-04.prproj: [File] (Level -2)
+Tue Dec 28 21:08:04 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-21-44.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-21-44.prproj: [File] (Level -1)
+Tue Dec 28 21:21:44 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-40-16.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-40-16.prproj: [File] (Level -4)
+Tue Dec 28 21:40:16 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-53-54.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_21-53-54.prproj: [File] (Level -1)
+Tue Dec 28 21:53:54 CET 2021
+------------------------------------------
+lyric (la hermandad)-2021-12-28_22-09-01.prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad)-2021-12-28_22-09-01.prproj: [File] (Level -2)
+Tue Dec 28 22:09:01 CET 2021
+------------------------------------------
+lyric (la hermandad).prproj: [Directory] (Level -1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad).prproj: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric (la hermandad).prproj: [File] (Level -1)
+Tue Dec 28 22:29:29 CET 2021
+------------------------------------------
+lyric (la hermandad).prproj: [File] (Level 0)
+Tue Dec 28 22:29:29 CET 2021
+------------------------------------------
+lyric (la hermandad): [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+lyric video: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+main.go: [File] (Level -1)
+Fri Jul 12 17:04:51 CEST 2024
+------------------------------------------
+main.go: [File] (Level -5)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+metadatacache.prmdc2: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+metadatacache.prmdc2: [File] (Level 1)
+Tue Dec 28 17:31:36 CET 2021
+------------------------------------------
+music: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+negro.mov: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+negro.mov: [File] (Level 0)
+Tue Dec 28 20:44:01 CET 2021
+------------------------------------------
+nodisponible.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+nodisponible.png: [File] (Level -1)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+profile.vars.DayZProfile: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+profile.vars.DayZProfile: [File] (Level 0)
+Wed Jul 06 04:18:48 CEST 2022
+------------------------------------------
+pronostic-pestanya.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pronostic-pestanya.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+pronostic.png: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pronostic.png: [File] (Level -2)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+pycharm-community-2021.3.1.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+pycharm-community-2021.3.1.exe: [File] (Level -1)
+Tue Jan 04 16:05:29 CET 2022
+------------------------------------------
+python-3.10.1-amd64.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+python-3.10.1-amd64.exe: [File] (Level -2)
+Tue Jan 04 15:43:19 CET 2022
+------------------------------------------
+quicksave.bak: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+quicksave.bak: [File] (Level 0)
+Thu Feb 17 21:18:18 CET 2022
+------------------------------------------
+quicksave.ess: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+quicksave.ess: [File] (Level -2)
+Thu Feb 17 21:20:30 CET 2022
+------------------------------------------
+registre-pestanya.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+registre-pestanya.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+rentas2020.zip: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+rentas2020.zip: [File] (Level -1)
+Wed Jun 08 12:22:02 CEST 2022
+------------------------------------------
+repository.go: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+repository.go: [File] (Level -1)
+Thu Jul 11 16:11:33 CEST 2024
+------------------------------------------
+repository: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+sfx: [Directory] (Level 1)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+stats.DayZ.json: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+stats.DayZ.json: [File] (Level -1)
+Tue May 31 02:22:59 CEST 2022
+------------------------------------------
+steam_autocloud.vdf: [Directory] (Level 0)
+Fri Sep 27 15:08:50 CEST 2024
+------------------------------------------
+steam_autocloud.vdf: [File] (Level -4)
+Thu Feb 17 19:59:01 CET 2022
+------------------------------------------
+sublime_text_build_4126_x64_setup.exe: [Directory] (Level -1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+sublime_text_build_4126_x64_setup.exe: [File] (Level -1)
+Wed Jan 05 20:56:27 CET 2022
+------------------------------------------
+toolbar.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+toolbar.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+toolbar.go: [File] (Level 0)
+Fri Jul 12 17:19:21 CEST 2024
+------------------------------------------
+toolbar.go: [File] (Level 0)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+ui.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ui.go: [Directory] (Level 0)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+ui.go: [File] (Level -2)
+Fri Jul 12 17:15:53 CEST 2024
+------------------------------------------
+ui.go: [File] (Level -3)
+Thu Jul 11 16:11:32 CEST 2024
+------------------------------------------
+vhs.MOV: [Directory] (Level 1)
+Fri Sep 27 15:08:51 CEST 2024
+------------------------------------------
+vhs.MOV: [File] (Level -2)
+Tue Dec 28 15:55:45 CET 2021
+------------------------------------------
